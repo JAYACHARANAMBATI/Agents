@@ -90,13 +90,7 @@ https://github.com/user-attachments/assets/593e2347-a7c7-4d23-b8f5-0057b2d26f11
 https://github.com/user-attachments/assets/2bdae755-9174-480f-8ab4-5f902ff7b1bc
 
 )  
-
----
-
-## 🧑💻 Author  
-**Ambati Jaya Charan**  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/yourusername) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
+  
 
 ---
 
