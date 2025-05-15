@@ -4,8 +4,7 @@
 *A collection of intelligent agents in Python, from reflex vacuums to AI-powered job assistants.*  
 
 ![Agent Types](https://img.shields.io/badge/Agent%20Types-3%20%2B-brightgreen) 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
-![License](https://img.shields.io/badge/License-MIT-orange)  
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)   
 
 ---
 
